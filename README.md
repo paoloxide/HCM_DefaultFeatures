@@ -1,2 +1,2 @@
-# HCM_DefaultFeatures
-These are the default features to be enabled in an HCM project.
+# HCM_Selenium
+Repository for the application to invoke selenium.
